@@ -5,6 +5,5 @@ This project is for practice and does not include any backend or interactivity.
 ## Tech Used
 - HTML 
 - CSS
-## LIVE DEMO :  https://payal-goswami.github.io/LinkHub/
 ---
 *This is a non-functional, front-end only project.*
